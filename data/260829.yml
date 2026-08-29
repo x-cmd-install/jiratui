@@ -1,0 +1,59 @@
+about:
+  description: A Textual User Interface for interacting with Atlassian Jira from your shell
+  license: MIT
+  homepage: https://jiratui.sh/
+  head: 569e209
+  archived: false
+  latestVersion: v1.13.1
+  collectedAt: 2026-08-29T07:08:47Z
+timeline:
+  created: 2025-08-04
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-28
+popularity:
+  star: 1682
+  watcher: 1
+  fork: 76
+  release: 25
+  contributor: 18
+  pullRequest: 20
+  issue: 115
+language:
+  Python: 2697146
+  HTML: 65829
+  Nix: 4899
+  Makefile: 2368
+totalLine: 2770242
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 3
+    mergedPR: 18
+    openPR: 0
+    closedIssue: 1
+    openIssue: 1
+    commit: 18
+  last90d:
+    since: 2026-05-31
+    release: 10
+    mergedPR: 58
+    openPR: 1
+    closedIssue: 5
+    openIssue: 1
+    commit: 58
+  last180d:
+    since: 2026-03-02
+    release: 13
+    mergedPR: 97
+    openPR: 3
+    closedIssue: 40
+    openIssue: 3
+    commit: 97
+  last360d:
+    since: 2025-09-03
+    release: 24
+    mergedPR: 173
+    openPR: 3
+    closedIssue: 107
+    openIssue: 8
+    commit: 174

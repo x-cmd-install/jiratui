@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.13.1"
   latestRelease: "v1.13.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:11:12Z
+  collectedAt: 2026-09-09T20:44:56Z
 timeline:
   created: 2025-08-04
   lastCommit: 2026-09-05
@@ -20,7 +20,7 @@ popularity:
   fork: 77
   release: 25
   contributor: 18
-  pullRequest: 204
+  pullRequest: 205
   issue: 115
 language:
   Python: 2697146
@@ -35,7 +35,7 @@ recent:
     since: 2026-08-10
     release: 2
     mergedPR: 15
-    openPR: 1
+    openPR: 2
     closedIssue: 1
     openIssue: 0
     commit: 13
@@ -43,7 +43,7 @@ recent:
     since: 2026-07-11
     release: 6
     mergedPR: 39
-    openPR: 2
+    openPR: 3
     closedIssue: 3
     openIssue: 1
     commit: 39
@@ -51,7 +51,7 @@ recent:
     since: 2026-06-11
     release: 10
     mergedPR: 55
-    openPR: 2
+    openPR: 3
     closedIssue: 5
     openIssue: 1
     commit: 55
@@ -59,7 +59,7 @@ recent:
     since: 2026-03-13
     release: 13
     mergedPR: 97
-    openPR: 4
+    openPR: 5
     closedIssue: 40
     openIssue: 3
     commit: 99
@@ -67,7 +67,7 @@ recent:
     since: 2025-09-14
     release: 22
     mergedPR: 159
-    openPR: 4
+    openPR: 5
     closedIssue: 82
     openIssue: 7
     commit: 152
@@ -75,20 +75,20 @@ recent:
     since: 2024-09-19
     release: 25
     mergedPR: 182
-    openPR: 4
+    openPR: 5
     closedIssue: 107
     openIssue: 8
     commit: 183
 total:
   release: 25
   mergedPR: 182
-  openPR: 4
+  openPR: 5
   closedIssue: 107
   openIssue: 8
   commit: 183
 ---
 path: /home/runner/.x-repo/github.com/whyisdifficult/jiratui
-collectedAt: 2026-09-09T06:11:16Z
+collectedAt: 2026-09-09T20:45:00Z
 loc:
   Python:
     code: 61394

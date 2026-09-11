@@ -14,11 +14,11 @@ x install jiratui
 
 ## Code insight
 
-Total: **66,133** lines of code across **182** files in the top 5 languages.
+Total: **66,484** lines of code across **182** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 61,394 | 3,883 | 6,177 | 155 |
+| Python | 61,745 | 3,893 | 6,201 | 155 |
 | Css | 2,312 | 59 | 68 | 7 |
 | Json | 1,282 | 0 | 0 | 11 |
 | Html | 413 | 10 | 0 | 1 |
@@ -33,7 +33,7 @@ Total: **66,133** lines of code across **182** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.13.1` (2026-08-28)
-- **Last commit**: 2026-09-05
+- **Last commit**: 2026-09-11
 
 ## Popularity
 
@@ -41,18 +41,18 @@ Total: **66,133** lines of code across **182** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 25 · **Merged PRs**: 182 · **Open PRs**: 5 · **Closed issues**: 107 · **Open issues**: 8 · **Commits**: 183
+- **Releases**: 25 · **Merged PRs**: 186 · **Open PRs**: 3 · **Closed issues**: 107 · **Open issues**: 8 · **Commits**: 187
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 2 | 14 | 2 | 1 | 0 | 13 |
-| last60d | 2026-07-13 | 6 | 39 | 3 | 3 | 1 | 39 |
-| 90d | 2026-06-13 | 10 | 55 | 3 | 5 | 1 | 55 |
-| last180d | 2026-03-15 | 13 | 97 | 5 | 40 | 3 | 99 |
-| 360d | 2025-09-16 | 22 | 154 | 5 | 80 | 7 | 152 |
-| last720d | 2024-09-21 | 25 | 182 | 5 | 107 | 8 | 183 |
+| 30d | 2026-08-12 | 2 | 18 | 0 | 1 | 0 | 17 |
+| last60d | 2026-07-13 | 6 | 43 | 1 | 3 | 1 | 43 |
+| 90d | 2026-06-13 | 10 | 59 | 1 | 5 | 1 | 59 |
+| last180d | 2026-03-15 | 13 | 101 | 3 | 40 | 3 | 103 |
+| 360d | 2025-09-16 | 22 | 158 | 3 | 80 | 7 | 156 |
+| last720d | 2024-09-21 | 25 | 186 | 3 | 107 | 8 | 187 |
 
 ## Distribution status
 
@@ -72,4 +72,4 @@ Install metadata for jiratui lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T06:11:10Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T18:36:13Z._

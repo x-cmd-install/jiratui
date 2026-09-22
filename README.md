@@ -32,27 +32,27 @@ Total: **68,751** lines of code across **187** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.14.0` (2026-09-13)
-- **Last commit**: 2026-09-20
+- **Latest**: `v1.15.0` (2026-09-21)
+- **Last commit**: 2026-09-21
 
 ## Popularity
 
-- **Stars**: 1,698 · **Forks**: 77 · **Open issues**: 118 · **Contributors**: 18
+- **Stars**: 1,698 · **Forks**: 78 · **Open issues**: 119 · **Contributors**: 18
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 190 · **Open PRs**: 3 · **Closed issues**: 109 · **Open issues**: 9 · **Commits**: 191
+- **Releases**: 27 · **Merged PRs**: 191 · **Open PRs**: 4 · **Closed issues**: 109 · **Open issues**: 10 · **Commits**: 192
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 3 | 15 | 0 | 1 | 2 | 12 |
-| last60d | 2026-07-23 | 7 | 37 | 1 | 3 | 3 | 29 |
-| 90d | 2026-06-23 | 9 | 55 | 1 | 6 | 3 | 53 |
-| last180d | 2026-03-25 | 14 | 105 | 3 | 41 | 5 | 97 |
-| 360d | 2025-09-26 | 21 | 152 | 3 | 75 | 8 | 149 |
-| last720d | 2024-10-01 | 26 | 190 | 3 | 109 | 9 | 191 |
+| 30d | 2026-08-23 | 4 | 15 | 1 | 1 | 3 | 13 |
+| last60d | 2026-07-24 | 8 | 33 | 2 | 3 | 4 | 30 |
+| 90d | 2026-06-24 | 10 | 55 | 2 | 5 | 4 | 54 |
+| last180d | 2026-03-26 | 15 | 106 | 4 | 41 | 6 | 98 |
+| 360d | 2025-09-27 | 22 | 151 | 4 | 75 | 9 | 150 |
+| last720d | 2024-10-02 | 27 | 191 | 4 | 109 | 10 | 192 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for jiratui lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T06:32:38Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T06:34:36Z._

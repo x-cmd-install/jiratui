@@ -42,5 +42,17 @@
   "zipball_url": "https://api.github.com/repos/whyisdifficult/jiratui/zipball/v1.15.0",
   "body": "## What's Changed\r\n\r\n### Added\r\n\r\n* add support for mentioning users in comments and when creating new items by @whyisdifficult in https://github.com/whyisdifficult/jiratui/pull/353\r\n\r\n### Minor Changes\r\n\r\n* add striped background and show/hide the details form by @whyisdifficult in https://github.com/whyisdifficult/jiratui/pull/358\r\n* add action and bindings tests by @whyisdifficult in https://github.com/whyisdifficult/jiratui/pull/359\r\n\r\n\r\n**Full Changelog**: https://github.com/whyisdifficult/jiratui/compare/v1.14.0...v1.15.0",
   "discussion_url": "https://github.com/whyisdifficult/jiratui/discussions/362",
+  "reactions": {
+    "url": "https://api.github.com/repos/whyisdifficult/jiratui/releases/392895741/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  },
   "mentions_count": 1
 }

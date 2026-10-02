@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/whyisdifficult/jiratui/releases/392895741",
-  "assets_url": "https://api.github.com/repos/whyisdifficult/jiratui/releases/392895741/assets",
-  "upload_url": "https://uploads.github.com/repos/whyisdifficult/jiratui/releases/392895741/assets{?name,label}",
-  "html_url": "https://github.com/whyisdifficult/jiratui/releases/tag/v1.15.0",
-  "id": 392895741,
+  "url": "https://api.github.com/repos/whyisdifficult/jiratui/releases/401105281",
+  "assets_url": "https://api.github.com/repos/whyisdifficult/jiratui/releases/401105281/assets",
+  "upload_url": "https://uploads.github.com/repos/whyisdifficult/jiratui/releases/401105281/assets{?name,label}",
+  "html_url": "https://github.com/whyisdifficult/jiratui/releases/tag/v1.16.0",
+  "id": 401105281,
   "author": {
     "login": "whyisdifficult",
     "id": 52700315,
@@ -25,34 +25,22 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOPYI-v84Xaxz9",
-  "tag_name": "v1.15.0",
+  "node_id": "RE_kwDOPYI-v84X6GGB",
+  "tag_name": "v1.16.0",
   "target_commitish": "main",
-  "name": "v1.15.0",
+  "name": "v1.16.0",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-09-21T10:46:52Z",
-  "updated_at": "2026-09-21T11:13:49Z",
-  "published_at": "2026-09-21T11:13:49Z",
+  "created_at": "2026-10-01T15:00:52Z",
+  "updated_at": "2026-10-01T15:30:16Z",
+  "published_at": "2026-10-01T15:30:16Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/whyisdifficult/jiratui/tarball/v1.15.0",
-  "zipball_url": "https://api.github.com/repos/whyisdifficult/jiratui/zipball/v1.15.0",
-  "body": "## What's Changed\r\n\r\n### Added\r\n\r\n* add support for mentioning users in comments and when creating new items by @whyisdifficult in https://github.com/whyisdifficult/jiratui/pull/353\r\n\r\n### Minor Changes\r\n\r\n* add striped background and show/hide the details form by @whyisdifficult in https://github.com/whyisdifficult/jiratui/pull/358\r\n* add action and bindings tests by @whyisdifficult in https://github.com/whyisdifficult/jiratui/pull/359\r\n\r\n\r\n**Full Changelog**: https://github.com/whyisdifficult/jiratui/compare/v1.14.0...v1.15.0",
-  "discussion_url": "https://github.com/whyisdifficult/jiratui/discussions/362",
-  "reactions": {
-    "url": "https://api.github.com/repos/whyisdifficult/jiratui/releases/392895741/reactions",
-    "total_count": 1,
-    "+1": 1,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 0,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 0,
-    "eyes": 0
-  },
-  "mentions_count": 1
+  "tarball_url": "https://api.github.com/repos/whyisdifficult/jiratui/tarball/v1.16.0",
+  "zipball_url": "https://api.github.com/repos/whyisdifficult/jiratui/zipball/v1.16.0",
+  "body": "## What's Changed\r\n\r\n### Added\r\n\r\n* Add support for mentioning users when editing textarea-based fields by @whyisdifficult in https://github.com/whyisdifficult/jiratui/pull/364\r\n* Add support for updating comments by @whyisdifficult in https://github.com/whyisdifficult/jiratui/pull/367\r\n* Add support for `customfieldtypes:multiversion` by @cullenstone1 in https://github.com/whyisdifficult/jiratui/pull/366\r\n\r\n### Bug Fixes\r\n\r\n* Fix Jira Server sprint strings in work item details by @jesko2004 in https://github.com/whyisdifficult/jiratui/pull/361\r\n* Fix bug in config screen by @whyisdifficult in https://github.com/whyisdifficult/jiratui/pull/369\r\n\r\n### Minor Improvements\r\n\r\n* Improve config screen by @whyisdifficult in https://github.com/whyisdifficult/jiratui/pull/365\r\n\r\n## New Contributors\r\n* @jesko2004 made their first contribution in https://github.com/whyisdifficult/jiratui/pull/361\r\n* @cullenstone1 made their first contribution in https://github.com/whyisdifficult/jiratui/pull/366\r\n\r\n**Full Changelog**: https://github.com/whyisdifficult/jiratui/compare/v1.15.0...v1.16.0",
+  "discussion_url": "https://github.com/whyisdifficult/jiratui/discussions/373",
+  "mentions_count": 3
 }

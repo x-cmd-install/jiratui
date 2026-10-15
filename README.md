@@ -14,11 +14,11 @@ x install jiratui
 
 ## Code insight
 
-Total: **72,176** lines of code across **190** files in the top 5 languages.
+Total: **72,311** lines of code across **190** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 67,436 | 4,205 | 6,644 | 163 |
+| Python | 67,571 | 4,221 | 6,659 | 163 |
 | Css | 2,312 | 59 | 68 | 7 |
 | Json | 1,282 | 0 | 0 | 11 |
 | Html | 413 | 10 | 0 | 1 |
@@ -33,26 +33,26 @@ Total: **72,176** lines of code across **190** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.17.0` (2026-10-10)
-- **Last commit**: 2026-10-10
+- **Last commit**: 2026-10-14
 
 ## Popularity
 
-- **Stars**: 1,712 · **Forks**: 84 · **Open issues**: 120 · **Contributors**: 22
+- **Stars**: 1,715 · **Forks**: 84 · **Open issues**: 120 · **Contributors**: 22
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 203 · **Open PRs**: 3 · **Closed issues**: 111 · **Open issues**: 9 · **Commits**: 204
+- **Releases**: 29 · **Merged PRs**: 205 · **Open PRs**: 3 · **Closed issues**: 111 · **Open issues**: 9 · **Commits**: 206
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 3 | 15 | 0 | 3 | 2 | 16 |
-| last60d | 2026-08-15 | 6 | 32 | 0 | 4 | 2 | 32 |
-| 90d | 2026-07-16 | 10 | 59 | 1 | 6 | 3 | 56 |
-| last180d | 2026-04-17 | 16 | 100 | 3 | 39 | 3 | 100 |
-| 360d | 2025-10-19 | 22 | 148 | 3 | 65 | 8 | 146 |
-| last720d | 2024-10-24 | 29 | 203 | 3 | 111 | 9 | 204 |
+| 30d | 2026-09-15 | 3 | 17 | 0 | 3 | 2 | 18 |
+| last60d | 2026-08-16 | 6 | 34 | 0 | 4 | 2 | 34 |
+| 90d | 2026-07-17 | 10 | 60 | 1 | 6 | 3 | 58 |
+| last180d | 2026-04-18 | 16 | 102 | 3 | 39 | 3 | 102 |
+| 360d | 2025-10-20 | 22 | 149 | 3 | 65 | 8 | 148 |
+| last720d | 2024-10-25 | 29 | 205 | 3 | 111 | 9 | 206 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for jiratui lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T06:11:51Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:49:39Z._

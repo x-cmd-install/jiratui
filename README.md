@@ -41,18 +41,27 @@ Total: **72,301** lines of code across **190** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 206 · **Open PRs**: 5 · **Closed issues**: 111 · **Open issues**: 9 · **Commits**: 207
+- **Releases**: 30 · **Merged PRs**: 206 · **Open PRs**: 8 · **Closed issues**: 111 · **Open issues**: 9 · **Commits**: 207
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 3 | 14 | 2 | 1 | 0 | 15 |
-| last60d | 2026-08-23 | 7 | 30 | 2 | 3 | 2 | 28 |
-| 90d | 2026-07-24 | 11 | 48 | 3 | 5 | 3 | 45 |
-| last180d | 2026-04-25 | 17 | 102 | 4 | 26 | 3 | 99 |
-| 360d | 2025-10-27 | 22 | 143 | 5 | 63 | 7 | 142 |
-| last720d | 2024-11-01 | 30 | 206 | 5 | 111 | 9 | 207 |
+| 30d | 2026-09-23 | 3 | 14 | 5 | 1 | 0 | 15 |
+| last60d | 2026-08-24 | 7 | 28 | 5 | 3 | 2 | 28 |
+| 90d | 2026-07-25 | 9 | 46 | 6 | 4 | 3 | 45 |
+| last180d | 2026-04-26 | 17 | 102 | 7 | 26 | 3 | 99 |
+| 360d | 2025-10-28 | 22 | 143 | 8 | 63 | 7 | 142 |
+| last720d | 2024-11-02 | 30 | 206 | 8 | 111 | 9 | 207 |
+
+## Distribution status
+
+Reported by **7** distros on [repology.org](https://repology.org/project/jiratui). **1** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.18.0` | ✅ latest |
+| Nix unstable | `1.12.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -63,4 +72,4 @@ Install metadata for jiratui lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:55:15Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:58:04Z._

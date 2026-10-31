@@ -47,12 +47,12 @@ Total: **72,301** lines of code across **190** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 3 | 10 | 6 | 1 | 0 | 9 |
-| last60d | 2026-08-31 | 5 | 26 | 6 | 3 | 2 | 26 |
-| 90d | 2026-08-01 | 8 | 43 | 6 | 4 | 3 | 43 |
-| last180d | 2026-05-03 | 17 | 98 | 8 | 19 | 3 | 98 |
-| 360d | 2025-11-04 | 21 | 134 | 9 | 59 | 6 | 134 |
-| last720d | 2024-11-09 | 30 | 206 | 9 | 111 | 9 | 207 |
+| 30d | 2026-10-01 | 3 | 8 | 6 | 0 | 0 | 9 |
+| last60d | 2026-09-01 | 5 | 26 | 6 | 3 | 2 | 26 |
+| 90d | 2026-08-02 | 7 | 43 | 6 | 4 | 3 | 43 |
+| last180d | 2026-05-04 | 17 | 98 | 8 | 19 | 3 | 98 |
+| 360d | 2025-11-05 | 21 | 134 | 9 | 58 | 6 | 134 |
+| last720d | 2024-11-10 | 30 | 206 | 9 | 111 | 9 | 207 |
 
 ## Distribution status
 
@@ -72,4 +72,4 @@ Install metadata for jiratui lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T07:06:54Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:52:25Z._

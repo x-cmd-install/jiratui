@@ -37,22 +37,22 @@ Total: **72,301** lines of code across **190** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,722 · **Forks**: 86 · **Open issues**: 120 · **Contributors**: 22
+- **Stars**: 1,723 · **Forks**: 88 · **Open issues**: 122 · **Contributors**: 22
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 215 · **Open PRs**: 4 · **Closed issues**: 111 · **Open issues**: 9 · **Commits**: 216
+- **Releases**: 30 · **Merged PRs**: 215 · **Open PRs**: 6 · **Closed issues**: 111 · **Open issues**: 11 · **Commits**: 216
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 2 | 16 | 1 | 0 | 0 | 17 |
-| last60d | 2026-09-06 | 5 | 33 | 1 | 3 | 2 | 33 |
-| 90d | 2026-08-07 | 7 | 50 | 1 | 4 | 3 | 49 |
-| last180d | 2026-05-09 | 17 | 105 | 3 | 18 | 3 | 104 |
-| 360d | 2025-11-10 | 21 | 142 | 4 | 58 | 6 | 142 |
-| last720d | 2024-11-15 | 30 | 215 | 4 | 111 | 9 | 216 |
+| 30d | 2026-10-07 | 2 | 15 | 3 | 0 | 2 | 17 |
+| last60d | 2026-09-07 | 5 | 33 | 3 | 3 | 4 | 33 |
+| 90d | 2026-08-08 | 7 | 50 | 3 | 4 | 5 | 49 |
+| last180d | 2026-05-10 | 17 | 104 | 5 | 18 | 5 | 104 |
+| 360d | 2025-11-11 | 21 | 142 | 6 | 58 | 8 | 142 |
+| last720d | 2024-11-16 | 30 | 215 | 6 | 111 | 11 | 216 |
 
 ## Distribution status
 
@@ -72,4 +72,4 @@ Install metadata for jiratui lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:58:31Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T08:01:59Z._

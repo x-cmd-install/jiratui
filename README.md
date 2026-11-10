@@ -14,11 +14,11 @@ x install jiratui
 
 ## Code insight
 
-Total: **72,301** lines of code across **190** files in the top 5 languages.
+Total: **73,517** lines of code across **194** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 67,561 | 4,230 | 6,661 | 163 |
+| Python | 68,778 | 4,309 | 6,827 | 167 |
 | Css | 2,312 | 59 | 68 | 7 |
 | Json | 1,282 | 0 | 0 | 11 |
 | Html | 413 | 10 | 0 | 1 |
@@ -32,27 +32,27 @@ Total: **72,301** lines of code across **190** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.18.0` (2026-10-15)
-- **Last commit**: 2026-11-01
+- **Latest**: `v1.19.0` (2026-11-08)
+- **Last commit**: 2026-11-08
 
 ## Popularity
 
-- **Stars**: 1,724 · **Forks**: 89 · **Open issues**: 122 · **Contributors**: 22
+- **Stars**: 1,726 · **Forks**: 89 · **Open issues**: 122 · **Contributors**: 26
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 215 · **Open PRs**: 8 · **Closed issues**: 111 · **Open issues**: 11 · **Commits**: 216
+- **Releases**: 31 · **Merged PRs**: 219 · **Open PRs**: 4 · **Closed issues**: 113 · **Open issues**: 9 · **Commits**: 220
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 2 | 13 | 5 | 0 | 2 | 17 |
-| last60d | 2026-09-09 | 5 | 31 | 5 | 3 | 4 | 33 |
-| 90d | 2026-08-10 | 7 | 48 | 5 | 4 | 4 | 49 |
-| last180d | 2026-05-12 | 17 | 103 | 7 | 18 | 5 | 104 |
-| 360d | 2025-11-13 | 21 | 142 | 8 | 58 | 8 | 142 |
-| last720d | 2024-11-18 | 30 | 215 | 8 | 111 | 11 | 216 |
+| 30d | 2026-10-11 | 2 | 16 | 1 | 2 | 0 | 13 |
+| last60d | 2026-09-11 | 6 | 33 | 1 | 5 | 2 | 32 |
+| 90d | 2026-08-12 | 8 | 51 | 1 | 6 | 2 | 48 |
+| last180d | 2026-05-14 | 18 | 106 | 3 | 18 | 3 | 104 |
+| 360d | 2025-11-15 | 22 | 146 | 4 | 60 | 6 | 144 |
+| last720d | 2024-11-20 | 31 | 219 | 4 | 113 | 9 | 220 |
 
 ## Distribution status
 
@@ -72,4 +72,4 @@ Install metadata for jiratui lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:19:12Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:58:34Z._

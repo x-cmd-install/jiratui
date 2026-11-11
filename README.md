@@ -47,12 +47,12 @@ Total: **73,517** lines of code across **194** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 2 | 16 | 1 | 2 | 0 | 13 |
-| last60d | 2026-09-11 | 6 | 33 | 1 | 5 | 2 | 32 |
-| 90d | 2026-08-12 | 8 | 51 | 1 | 6 | 2 | 48 |
-| last180d | 2026-05-14 | 18 | 106 | 3 | 18 | 3 | 104 |
-| 360d | 2025-11-15 | 22 | 146 | 4 | 60 | 6 | 144 |
-| last720d | 2024-11-20 | 31 | 219 | 4 | 113 | 9 | 220 |
+| 30d | 2026-10-12 | 2 | 16 | 1 | 2 | 0 | 13 |
+| last60d | 2026-09-12 | 6 | 33 | 1 | 5 | 2 | 32 |
+| 90d | 2026-08-13 | 8 | 50 | 1 | 6 | 2 | 48 |
+| last180d | 2026-05-15 | 18 | 106 | 3 | 18 | 3 | 104 |
+| 360d | 2025-11-16 | 22 | 146 | 4 | 60 | 6 | 144 |
+| last720d | 2024-11-21 | 31 | 219 | 4 | 113 | 9 | 220 |
 
 ## Distribution status
 
@@ -60,7 +60,7 @@ Reported by **7** distros on [repology.org](https://repology.org/project/jiratui
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `1.18.0` | ✅ latest |
+| Homebrew | `1.19.0` | ✅ latest |
 | Nix unstable | `1.12.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -72,4 +72,4 @@ Install metadata for jiratui lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:58:34Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:47:47Z._

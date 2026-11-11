@@ -25,7 +25,7 @@
 - repo: homebrew
   srcname: jiratui
   visiblename: jiratui
-  version: 1.18.0
+  version: 1.19.0
   origversion: null
   status: newest
   summary: Textual User Interface for interacting with Atlassian Jira from your shell

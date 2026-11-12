@@ -61,7 +61,7 @@
 - repo: nix_unstable
   srcname: jiratui
   visiblename: jiratui
-  version: 1.12.0
+  version: 1.18.0
   origversion: null
   status: outdated
   summary: A Textual User Interface for interacting with Atlassian Jira from your shell

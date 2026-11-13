@@ -37,7 +37,7 @@ Total: **73,517** lines of code across **194** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,726 · **Forks**: 89 · **Open issues**: 122 · **Contributors**: 26
+- **Stars**: 1,726 · **Forks**: 90 · **Open issues**: 122 · **Contributors**: 26
 
 ## Totals (cumulative)
 
@@ -47,21 +47,21 @@ Total: **73,517** lines of code across **194** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 2 | 16 | 1 | 2 | 0 | 13 |
-| last60d | 2026-09-13 | 6 | 31 | 1 | 5 | 2 | 32 |
-| 90d | 2026-08-14 | 8 | 49 | 1 | 6 | 2 | 48 |
-| last180d | 2026-05-16 | 18 | 106 | 3 | 18 | 3 | 104 |
-| 360d | 2025-11-17 | 22 | 145 | 4 | 60 | 6 | 144 |
-| last720d | 2024-11-22 | 31 | 219 | 4 | 113 | 9 | 220 |
+| 30d | 2026-10-14 | 2 | 14 | 1 | 2 | 0 | 13 |
+| last60d | 2026-09-14 | 5 | 31 | 1 | 5 | 2 | 32 |
+| 90d | 2026-08-15 | 8 | 48 | 1 | 6 | 2 | 48 |
+| last180d | 2026-05-17 | 17 | 104 | 3 | 18 | 3 | 104 |
+| 360d | 2025-11-18 | 22 | 145 | 4 | 60 | 6 | 144 |
+| last720d | 2024-11-23 | 31 | 219 | 4 | 113 | 9 | 220 |
 
 ## Distribution status
 
-Reported by **7** distros on [repology.org](https://repology.org/project/jiratui). **1** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+Reported by **7** distros on [repology.org](https://repology.org/project/jiratui). **2** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `1.19.0` | ✅ latest |
-| Nix unstable | `1.18.0` | ⚠️ outdated |
+| Nix unstable | `1.19.0` | ✅ latest |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for jiratui lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T09:06:11Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T08:19:55Z._

@@ -37,7 +37,7 @@ Total: **75,352** lines of code across **198** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,726 · **Forks**: 91 · **Open issues**: 122 · **Contributors**: 26
+- **Stars**: 1,728 · **Forks**: 91 · **Open issues**: 122 · **Contributors**: 26
 
 ## Totals (cumulative)
 
@@ -47,12 +47,21 @@ Total: **75,352** lines of code across **198** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 2 | 14 | 0 | 2 | 0 | 14 |
-| last60d | 2026-09-18 | 6 | 32 | 1 | 3 | 1 | 29 |
-| 90d | 2026-08-19 | 9 | 47 | 1 | 5 | 2 | 44 |
-| last180d | 2026-05-21 | 18 | 102 | 3 | 17 | 3 | 98 |
-| 360d | 2025-11-22 | 21 | 143 | 4 | 58 | 6 | 143 |
-| last720d | 2024-11-27 | 32 | 220 | 4 | 113 | 9 | 221 |
+| 30d | 2026-10-20 | 2 | 13 | 0 | 2 | 0 | 14 |
+| last60d | 2026-09-20 | 6 | 30 | 1 | 3 | 1 | 29 |
+| 90d | 2026-08-21 | 9 | 45 | 1 | 5 | 2 | 44 |
+| last180d | 2026-05-23 | 17 | 98 | 3 | 16 | 3 | 98 |
+| 360d | 2025-11-24 | 20 | 143 | 4 | 57 | 6 | 143 |
+| last720d | 2024-11-29 | 32 | 220 | 4 | 113 | 9 | 221 |
+
+## Distribution status
+
+Reported by **7** distros on [repology.org](https://repology.org/project/jiratui). **1** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.20.0` | ✅ latest |
+| Nix unstable | `1.19.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -63,4 +72,4 @@ Install metadata for jiratui lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:57:14Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:18:02Z._

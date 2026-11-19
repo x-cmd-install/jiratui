@@ -25,7 +25,7 @@
 - repo: homebrew
   srcname: jiratui
   visiblename: jiratui
-  version: 1.19.0
+  version: 1.20.0
   origversion: null
   status: newest
   summary: Textual User Interface for interacting with Atlassian Jira from your shell
@@ -63,7 +63,7 @@
   visiblename: jiratui
   version: 1.19.0
   origversion: null
-  status: newest
+  status: outdated
   summary: A Textual User Interface for interacting with Atlassian Jira from your shell
   maintainers:
     - pol.dellaiera@protonmail.com
